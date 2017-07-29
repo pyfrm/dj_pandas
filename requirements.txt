@@ -1,0 +1,4 @@
+django
+djangorestframework
+pandas
+git+git://github.com/sshwsfc/xadmin.git#egg=xadmin
