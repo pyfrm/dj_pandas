@@ -20,7 +20,7 @@
 
 # 本地启动
 
-> python manage.py runserver 0.0.0.0:8090
+> python manage.py runserver 0.0.0.0:8000
 
 # 进入管理后台
 
