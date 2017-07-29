@@ -4,6 +4,15 @@
 
 图示模板部分，使用 https://wq.io/1.0/docs/
 
+# 图示效果
+
+数据图示：
+
+![multitimeseries](media/multitimeseries.png)
+
+管理后台：
+
+![xadmin](media/xadmin_demo.jpeg)
 
 # 项目依赖
 
@@ -39,3 +48,4 @@
 >
 > http://127.0.0.1:8000/demo/complexboxplot
 >
+
